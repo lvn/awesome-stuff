@@ -37,6 +37,15 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol](https://www.cs.cornell.edu/~asdas/research/dsn02-swim.pdf)
 * [BitTorrent Protocol](http://jonas.nitro.dk/bittorrent/bittorrent-rfc.html)
 
+## Books
+Most of these books are about startups - I generally learn about software from elsewhere, like websites and blog posts.
+* [Founders at Work](http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788) by Jessica Livingston et al. - Collection of interviews with various tech entrepreneurs.
+* [Secrets of the Rockstar Programmers](http://www.amazon.com/Secrets-Rock-Star-Programmers-Riding/dp/0071490833) by Ed Burns et al. - Interviews of software experts.
+* [Zero to One](http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) by Peter Thiel - notes from Peter Thiel's Startups class at Stanford.
+* [The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205) by Ben Horowitz - on the unglamorous parts of running a company.
+* [Viral Loop](http://www.amazon.com/Viral-Loop-Facebook-Businesses-Themselves/dp/1401323499) by Adam L. Penenberg - How successful tech startups grow virally.
+* [Once You're Lucky, Twice You're Good](http://www.amazon.com/Once-Youre-Lucky-Twice-Good/dp/1592404278) by Sarah Lacy - A look at the startup world just before the 2008 crisis.
+
 ## Random
 * [The Codeless Code](http://thecodelesscode.com/contents) - Zen koans, but for software development.
 * [SVDictionary](http://svdictionary.com/) - Urban Dictionary, but for the Bay Area.
