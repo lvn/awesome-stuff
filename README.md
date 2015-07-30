@@ -28,7 +28,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * Dropbox's [Edgestore](https://www.youtube.com/watch?v=VZ-zJEWi-Vo)
 
 ## Blog Posts
-* [TAO: The Power of the Graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920)
+* [TAO: The Power of the Graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920) - on Facebook's distributed graph-oriented datastore.
 * [Machine Learning is Way Easier Than It Looks](https://blog.intercom.io/machine-learning-way-easier-than-it-looks/)
 * [Zookeeper Resilience at Pinterest](http://engineering.pinterest.com/post/77933733851/zookeeper-resilience-at-pinterest) - How Pinterest implements ZooKeeper for service discovery.
 * Yelp on [Scaling Traffic from 0 to 139 Million Unique Visitors](http://engineeringblog.yelp.com/2014/10/scaling-traffic-from-0-to-139-million-unique-visitors.html)
