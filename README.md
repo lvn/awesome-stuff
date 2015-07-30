@@ -26,6 +26,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [Facebook and Memcached](https://www.youtube.com/watch?v=UH7wkvcf0ys)
 * Dropbox's [Edgestore](https://www.youtube.com/watch?v=VZ-zJEWi-Vo)
+* [Storage Systems at a Rapidly Scaling Startup with a Small Team](https://www.youtube.com/watch?v=bLyv8zKa5DU) - A story from Data@Scale of how Instagram scaled their datastores.
 
 ## Blog Posts
 * [TAO: The Power of the Graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920) - on Facebook's distributed graph-oriented datastore.
