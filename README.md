@@ -52,3 +52,4 @@ Most of these books are about startups - I generally learn about software from e
 ## Random
 * [The Codeless Code](http://thecodelesscode.com/contents) - Zen koans, but for software development.
 * [SVDictionary](http://svdictionary.com/) - Urban Dictionary, but for the Bay Area.
+* [Bay Area to Standard American English Translator](http://www.mcsweeneys.net/articles/bay-area-to-standard-american-english-translator) 
