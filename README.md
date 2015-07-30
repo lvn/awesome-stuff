@@ -14,6 +14,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 
 ## Blogs
 * [High Scalability](http://highscalability.com/) - posts on how various companies scale.
+* [Paul Graham](http://www.paulgraham.com/) - founder of YC and Viaweb.
 * [Antirez](http://antirez.com/latest/0) - creator of Redis.
 * [Max Levchin](http://max.levch.in/) - musings from the Eternal Entrepreneur.
 * [Evan Miller](http://www.evanmiller.org/) - guy writes about applied math, programming languages, random tech stuff...
