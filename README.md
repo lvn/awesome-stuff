@@ -5,6 +5,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html) - Contains short chapters on the architectures of various OSS software.
 * [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/toc.html) - General primer on distributed messaging.
 * Stanford's [CS244b: Distributed Systems](http://www.scs.stanford.edu/14au-cs244b/)
+* [ZeroMQ - The Guide](http://zguide.zeromq.org/page:all) - Good intro to messaging patterns and ZeroMQ.
 
 ## Career
 * [Breakout Career Notes](http://www.breakoutcareers.com/) - Collections of career tips from tech entrepreneurs and VCs.
