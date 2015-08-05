@@ -36,6 +36,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * Yelp on [Scaling Traffic from 0 to 139 Million Unique Visitors](http://engineeringblog.yelp.com/2014/10/scaling-traffic-from-0-to-139-million-unique-visitors.html)
 
 ## Papers/RFCs
+* [The Part-Time Parliament](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf) - Leslie Lamport's super confusing paper on the Paxos protocol.
 * [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 * [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol](https://www.cs.cornell.edu/~asdas/research/dsn02-swim.pdf)
 * [BitTorrent Protocol](http://jonas.nitro.dk/bittorrent/bittorrent-rfc.html)
