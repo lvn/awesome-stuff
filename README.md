@@ -9,6 +9,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 * [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol](https://www.cs.cornell.edu/~asdas/research/dsn02-swim.pdf)
 * [BitTorrent Protocol](http://jonas.nitro.dk/bittorrent/bittorrent-rfc.html)
+* [Adventures in message queues](http://antirez.com/news/88)
 
 ## Architecture
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html) - Contains short chapters on the architectures of various OSS software.
