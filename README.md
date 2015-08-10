@@ -27,6 +27,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 ## Data
 * [TAO: The Power of the Graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920) - on Facebook's distributed graph-oriented datastore.
 * Dropbox's [Edgestore](https://www.youtube.com/watch?v=VZ-zJEWi-Vo)
+* [Learn to stop using shiny new things and love MySQL](https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql) by Marty Weiner
 
 ## Startups
 * [Good and Bad Reasons to Become an Entrepreneur](https://medium.com/i-m-h-o/good-and-bad-reasons-to-become-an-entrepreneur-decf0766de8d) by Dustin Moskovitz
