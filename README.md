@@ -37,6 +37,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205) by Ben Horowitz - on the unglamorous parts of running a company.
 * [Viral Loop](http://www.amazon.com/Viral-Loop-Facebook-Businesses-Themselves/dp/1401323499) by Adam L. Penenberg - How successful tech startups grow virally.
 * [Once You're Lucky, Twice You're Good](http://www.amazon.com/Once-Youre-Lucky-Twice-Good/dp/1592404278) by Sarah Lacy - A look at the startup world just before the 2008 crisis.
+* [What’s Your Hour in ‘Silicon Valley Time’?](https://medium.com/backchannel/how-the-tech-press-forces-a-narrative-on-companies-it-covers-5f89fdb7793e) - explains the concept of Silicon Valley Time, i.e. stages of a tech startup.
 
 ## Career
 * [Breakout Career Notes](http://www.breakoutcareers.com/) - Collections of career tips from tech entrepreneurs and VCs.
