@@ -48,6 +48,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [Paul Graham](http://www.paulgraham.com/) - founder of YC and Viaweb.
 * [Antirez](http://antirez.com/latest/0) - creator of Redis.
 * [Max Levchin](http://max.levch.in/) - musings from the Eternal Entrepreneur.
+* [Jacques Mattheij](http://jacquesmattheij.com/) - cool stuff about tech
 * [Evan Miller](http://www.evanmiller.org/) - guy writes about applied math, programming languages, random tech stuff...
 * [Ben Horowitz](http://www.bhorowitz.com/) - one half of a16z.
 * [Jamie Zawinski](http://www.jwz.org/blog/) - well-known Netscape/Mozilla engineer.
