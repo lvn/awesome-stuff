@@ -39,6 +39,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [Once You're Lucky, Twice You're Good](http://www.amazon.com/Once-Youre-Lucky-Twice-Good/dp/1592404278) by Sarah Lacy - A look at the startup world just before the 2008 crisis.
 * [What’s Your Hour in ‘Silicon Valley Time’?](https://medium.com/backchannel/how-the-tech-press-forces-a-narrative-on-companies-it-covers-5f89fdb7793e) - explains the concept of Silicon Valley Time, i.e. stages of a tech startup.
 * [Startup Product Development](http://www.slideshare.net/MarketingNinja/startup-product-development)
+* [Are "Better" Ideas More Likely to Succeed? An Empirical Analysis of Startup Evaluation ](http://www.hbs.edu/faculty/Publication%20Files/16-013_201e071c-9dd8-4838-b5aa-492f4f202822.pdf)
 
 ## Career
 * [Breakout Career Notes](http://www.breakoutcareers.com/) - Collections of career tips from tech entrepreneurs and VCs.
