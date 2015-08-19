@@ -19,6 +19,8 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [Storage Systems at a Rapidly Scaling Startup with a Small Team](https://www.youtube.com/watch?v=bLyv8zKa5DU) - A story from Data@Scale of how Instagram scaled their datastores.
 * [Zookeeper Resilience at Pinterest](http://engineering.pinterest.com/post/77933733851/zookeeper-resilience-at-pinterest) - How Pinterest implements ZooKeeper for service discovery.
 * Yelp on [Scaling Traffic from 0 to 139 Million Unique Visitors](http://engineeringblog.yelp.com/2014/10/scaling-traffic-from-0-to-139-million-unique-visitors.html)
+* [How Does a Relational Database Work?](http://coding-geek.com/how-databases-work/)
+* [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
 
 ## Machine Learning
 * [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
