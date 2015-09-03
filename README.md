@@ -60,6 +60,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [Ben Horowitz](http://www.bhorowitz.com/) - one half of a16z.
 * [Jamie Zawinski](http://www.jwz.org/blog/) - well-known Netscape/Mozilla engineer.
 * [Sam Altman](http://blog.samaltman.com/) - YC president.
+* [Purple Motes](http://purplemotes.net/) - Interesting stuff from history
 
 ## Random
 * [The Codeless Code](http://thecodelesscode.com/contents) - Zen koans, but for software development.
