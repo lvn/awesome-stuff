@@ -7,6 +7,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * Stanford's [CS244b: Distributed Systems](http://www.scs.stanford.edu/14au-cs244b/)
 * [ZeroMQ - The Guide](http://zguide.zeromq.org/page:all) - Good intro to messaging patterns and ZeroMQ.
 * [The Part-Time Parliament](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf) - Leslie Lamport's super confusing paper on the Paxos protocol.
+* [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf) - A somewhat simpler to understand paper on the same topic, by the same author.
 * [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 * [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol](https://www.cs.cornell.edu/~asdas/research/dsn02-swim.pdf)
 * [BitTorrent Protocol](http://jonas.nitro.dk/bittorrent/bittorrent-rfc.html)
