@@ -50,6 +50,9 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [Pmarca Guide to Career Planning](http://pmarchive.com/guide_to_career_planning_part0.html) - Career guide from Marc Andreesen.
 * Google's [Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 
+## Mildly Interesting
+* [Brian Bi on K&R C](https://spin0r.wordpress.com/2014/11/21/kr-c/) - Blog post about early installment weirdness in the C language.
+
 ## Blogs
 * [High Scalability](http://highscalability.com/) - posts on how various companies scale.
 * [Paul Graham](http://www.paulgraham.com/) - founder of YC and Viaweb.
