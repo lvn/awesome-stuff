@@ -27,6 +27,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 ## Machine Learning
 * [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
 * [Machine Learning is Way Easier Than It Looks](https://blog.intercom.io/machine-learning-way-easier-than-it-looks/)
+* [Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
 ## Data
 * [TAO: The Power of the Graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920) - on Facebook's distributed graph-oriented datastore.
