@@ -14,7 +14,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [Adventures in message queues](http://antirez.com/news/88)
 
 ## Architecture
-* [Architecture of Open Source Applications](http://aosabook.org/en/index.html) - Contains short chapters on the architectures of various OSS software.
+* [Architecture of Open Source Applications](http://aosabook.org/en/index.html) - Contains short chapters on the architectures of various open source software.
 * [Scaling Pinterest](https://www.youtube.com/watch?v=jQNCuD_hxdQ)
 * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [Facebook and Memcached](https://www.youtube.com/watch?v=UH7wkvcf0ys)
