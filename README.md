@@ -54,6 +54,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 
 ## Mildly Interesting
 * [Brian Bi on K&R C](https://spin0r.wordpress.com/2014/11/21/kr-c/) - Blog post about early installment weirdness in the C language.
+* [Codepen Thing](http://codepen.io/erucipe/full/vNKzJw/) - A really awesome visualization of a Fourier transform.
 
 ## Blogs
 * [High Scalability](http://highscalability.com/) - posts on how various companies scale.
