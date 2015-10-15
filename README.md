@@ -46,6 +46,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [Startup Product Development](http://www.slideshare.net/MarketingNinja/startup-product-development)
 * [Are "Better" Ideas More Likely to Succeed? An Empirical Analysis of Startup Evaluation ](http://www.hbs.edu/faculty/Publication%20Files/16-013_201e071c-9dd8-4838-b5aa-492f4f202822.pdf)
 * [Work Hard, Live Well](https://medium.com/life-learning/work-hard-live-well-ead679cb506d) by Dustin Moskovitz
+* [Early Excite History](http://www.slideshare.net/ryanmcintyre/early-excite-history) by Ryan McIntyre - slides on the history of Excite. Has some discussions near the end about why Google survived and Excite didn't.
 
 ## Career
 * [Breakout Career Notes](http://www.breakoutcareers.com/) - Collections of career tips from tech entrepreneurs and VCs.
