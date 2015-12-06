@@ -50,6 +50,9 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [Early Excite History](http://www.slideshare.net/ryanmcintyre/early-excite-history) by Ryan McIntyre - slides on the history of Excite. Has some discussions near the end about why Google survived and Excite didn't.
 * [Meta-Programming: A Software Production Method](https://www.parc.com/content/attachments/meta-programming-csl-76-7.pdf) by Charles Simonyi - a paper on organizing software developers for productivity.
 
+## Product
+* [How to Build Great Products](http://www.defmacro.org/2013/09/26/products.html) - A blog post on identifying good features to build for a product, and how to allocate resourcces. 
+
 ## Career
 * [Breakout Career Notes](http://www.breakoutcareers.com/) - Collections of career tips from tech entrepreneurs and VCs.
 * [Pmarca Guide to Career Planning](http://pmarchive.com/guide_to_career_planning_part0.html) - Career guide from Marc Andreesen.
