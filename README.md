@@ -49,6 +49,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [Work Hard, Live Well](https://medium.com/life-learning/work-hard-live-well-ead679cb506d) by Dustin Moskovitz
 * [Early Excite History](http://www.slideshare.net/ryanmcintyre/early-excite-history) by Ryan McIntyre - slides on the history of Excite. Has some discussions near the end about why Google survived and Excite didn't.
 * [Meta-Programming: A Software Production Method](https://www.parc.com/content/attachments/meta-programming-csl-76-7.pdf) by Charles Simonyi - a paper on organizing software developers for productivity.
+* [Three Stories](http://justinkan.com/three-stories) by Justin Kan
 
 ## Product
 * [How to Build Great Products](http://www.defmacro.org/2013/09/26/products.html) - A blog post on identifying good features to build for a product, and how to allocate resourcces. 
