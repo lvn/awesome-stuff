@@ -2,7 +2,7 @@
 Curated list of miscellaneous stuff that will probably eventually help me.
 
 ## Distributed Systems
-* [Intro to DHTs](http://www.freedomlayer.org/articles/dht_intro.html) - Good introduction to the Chord distributed hash table protocol.
+* [Intro to DHTs](https://www.newtolife.net/intro-to-distributed-hash-tables-dhts.html) - Good introduction to the Chord distributed hash table protocol.
 * [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/toc.html) - General primer on distributed messaging.
 * Stanford's [CS244b: Distributed Systems](http://www.scs.stanford.edu/14au-cs244b/)
 * [ZeroMQ - The Guide](http://zguide.zeromq.org/page:all) - Good intro to messaging patterns and ZeroMQ.
