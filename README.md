@@ -54,6 +54,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 
 ## Product
 * [How to Build Great Products](http://www.defmacro.org/2013/09/26/products.html) - A blog post on identifying good features to build for a product, and how to allocate resourcces. 
+* [10x not 10%](https://library.gv.com/10x-not-10-34ba4eb91130#.dd0g6v2tc)
 
 ## Career
 * [Breakout Career Notes](http://www.breakoutcareers.com/) - Collections of career tips from tech entrepreneurs and VCs.
