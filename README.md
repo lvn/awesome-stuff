@@ -21,7 +21,7 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 ### Database
 * [TAO: The Power of the Graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920) - on Facebook's distributed graph-oriented datastore.
 * Dropbox's [Edgestore](https://www.youtube.com/watch?v=VZ-zJEWi-Vo)
-* [Learn to stop using shiny new things and love MySQL](https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql) by Marty Weiner
+* [Learn to stop using shiny new things and love MySQL](https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql) by Marty Weiner - Great advice about technology decisions for a startup/new product, especially on where you should put your data.
 * [Readings in Database Systems](http://www.redbook.io/) - This is *the* red book, now in website form. Awesome readings on databases.
 
 ## Architecture
