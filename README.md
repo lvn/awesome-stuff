@@ -1,7 +1,12 @@
 # Awesome Stuff
 Curated list of miscellaneous stuff that will probably eventually help me.
 
-## Distributed Systems
+## Systems
+### Operating
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Very nice introductory to operating systems stuff, with good coverage of new technology. The whimsical tone makes it a fun read. Better than [the Dinosaur Book](https://www.amazon.ca/Operating-System-Concepts-Abraham-Silberschatz/dp/1118129385) in my opinion.
+* [Showstopper!](https://www.amazon.com/Show-Stopper-Breakneck-Generation-Microsoft/dp/0029356717) - About the development of Windows NT. Given the amount of computing analogies, I think this is intended for a nontechnical audience. Still a great read regardless, with lots of insight into various OS design decisions.
+
+### Distributed
 * [Intro to DHTs](https://www.newtolife.net/intro-to-distributed-hash-tables-dhts.html) - Good introduction to the Chord distributed hash table protocol.
 * [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/toc.html) - General primer on distributed messaging.
 * Stanford's [CS244b: Distributed Systems](http://www.scs.stanford.edu/14au-cs244b/)
