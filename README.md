@@ -18,6 +18,12 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [BitTorrent Protocol](http://jonas.nitro.dk/bittorrent/bittorrent-rfc.html)
 * [Adventures in message queues](http://antirez.com/news/88)
 
+### Database
+* [TAO: The Power of the Graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920) - on Facebook's distributed graph-oriented datastore.
+* Dropbox's [Edgestore](https://www.youtube.com/watch?v=VZ-zJEWi-Vo)
+* [Learn to stop using shiny new things and love MySQL](https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql) by Marty Weiner
+* [Readings in Database Systems](http://www.redbook.io/) - This is *the* red book, now in website form. Awesome readings on databases.
+
 ## Architecture
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html) - Contains short chapters on the architectures of various open source software.
 * [Scaling Pinterest](https://www.youtube.com/watch?v=jQNCuD_hxdQ)
@@ -34,12 +40,6 @@ Curated list of miscellaneous stuff that will probably eventually help me.
 * [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
 * [Machine Learning is Way Easier Than It Looks](https://blog.intercom.io/machine-learning-way-easier-than-it-looks/)
 * [Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-
-## Data
-* [TAO: The Power of the Graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920) - on Facebook's distributed graph-oriented datastore.
-* Dropbox's [Edgestore](https://www.youtube.com/watch?v=VZ-zJEWi-Vo)
-* [Learn to stop using shiny new things and love MySQL](https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql) by Marty Weiner
-* [Readings in Database Systems](http://www.redbook.io/) - This is *the* red book, now in website form. Awesome readings on databases.
 
 ## Startups
 * [Good and Bad Reasons to Become an Entrepreneur](https://medium.com/i-m-h-o/good-and-bad-reasons-to-become-an-entrepreneur-decf0766de8d) by Dustin Moskovitz
