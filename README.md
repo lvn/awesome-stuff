@@ -1,35 +1,55 @@
 # Awesome Stuff
 Curated list of miscellaneous stuff that will probably eventually help me.
 
-## Systems
-There's also a section below this titled *Architecture*. This section is generally focused on the more academic side of things.
+## Systemsy Stuff
+A very incomplete mishmash of occasionally-hard-to-separate stuff about operating systems, databases, distributed systems, etc. I also have a [blog](http://blog.elvinyung.com/) where I talk about this kind of stuff.
 
-### Operating
-* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Very nice introductory to operating systems stuff, with good coverage of new technology. The whimsical tone makes it a fun read. Better than [the Dinosaur Book](https://www.amazon.ca/Operating-System-Concepts-Abraham-Silberschatz/dp/1118129385) in my opinion.
-* [Showstopper!](https://www.amazon.com/Show-Stopper-Breakneck-Generation-Microsoft/dp/0029356717) - About the development of Windows NT. Given the amount of computing analogies, I think this is intended for a nontechnical audience. Still a great read regardless, with lots of insight into various OS design decisions.
-* [The Night Watch](https://www.usenix.org/system/files/1311_05-08_mickens.pdf) by James Mickens
-
-### Distributed
-#### Papers
-* [Dynamo: Amazon’s Highly Available Key-value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) - An excellent, easy to understand introductory paper on a distributed system. Inspiration for Riak and Cassandra, and a bunch of others.
-* [Google File System](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) - Another very good introductory distributed systems paper.
-* [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) - Another good intro paper, slightly denser than the two above. Inspiration for HBase.
-* [The Part-Time Parliament](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf) - Leslie Lamport's super confusing paper on the Paxos protocol.
-* [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf) - A somewhat simpler to understand paper on the same topic, by the same author.
-* [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
-
-#### Blogs
-* [Jepsen](https://aphyr.com/tags/jepsen) - A series of blog posts on how distributed systems behave in real life.
-* [Intro to DHTs](https://www.newtolife.net/intro-to-distributed-hash-tables-dhts.html) - Good introduction to the Chord distributed hash table protocol.
-* Stanford's [CS244b: Distributed Systems](http://www.scs.stanford.edu/14au-cs244b/)
-* [BitTorrent Protocol](http://jonas.nitro.dk/bittorrent/bittorrent-rfc.html)
-* [Cockroach Labs Blog](https://www.cockroachlabs.com/blog/) - Cockroach Labs is building CockroachDB, an open-source version of Spanner. This is an interesting, pretty technical blog.
-
-### Database
-Distributed systems and database systems generally have some overlap, so this section is for readings (generally) non-distributed databases, i.e. focus on how the data is stored on disk, not how it is stored across multiple machines.
-
+### General Databases
 * [Readings in Database Systems](http://www.redbook.io/) - aka *the* red book (for databases, not the other one), new and in website form. Awesome introductory readings on databases.
 * [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
+* [The Gamma Database Machine Project](http://pages.cs.wisc.edu/~dewitt/includes/paralleldb/ieee90.pdf) - popularized -- but did not introduce -- the concepts of sharding, and hash join algorithms.
+
+### DHTs
+DHTs are different from databases because they generally assume a much more decentralized environment, but they're important for understanding some techniques used by modern distributed databases.
+
+* [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf) - 
+* [Kademlia: A Peer-to-peer Information System Based on the XOR Metric](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
+
+### "NoSQL" Systems
+* [Dynamo: Amazon’s Highly Available Key-value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) - The original NoSQL datastore. Uses a bunch of really neat tricks. Inspiration for Riak and Cassandra, and a bunch of others.
+* [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) - The *other* original NoSQL datastore. Bigtable is interesting mainly because of its single-machine I/O optimizations.
+* [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36971.pdf) - a database built on top of Bigtable. It is probably better known in the form of [Google Cloud Datastore](https://cloud.google.com/datastore/docs/concepts/overview).
+  * Also see [Spanner: Google’s Globally-Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf), which has a general design that's clearly inspired by Megastore, but has a bunch of interesting techniques. It literally uses atomic clocks to do multi-version concurrency control.
+
+### "Big data"
+* [The Google File System](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) - an early example of a modern distributed file system. 
+* [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf) - A very simple abstraction for doing large-scale data processing. 
+* [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://www-bcf.usc.edu/~minlanyu/teach/csci599-fall12/papers/nsdi_spark.pdf) - an abstraction that improves over (and subsumes) MapReduce in a few ways. It is probably more well-known as the core of a system called [Spark](http://spark.apache.org/).
+
+### Consensus
+* [The Part-Time Parliament](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf) - Leslie Lamport's super confusing paper on the Paxos protocol.
+* [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf) - A somewhat simpler to understand paper on the same topic, by the same author.
+* [Paxos Made Live - An Engineering Perspective](http://www.cs.cmu.edu/~15-440/READINGS/paxos-made-live.pdf) - Google's experiences building [Chubby](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf), and why Paxos is so hard in real life.
+* [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) - introduced Raft, a consensus algorithm that seems to be becoming more popular than Paxos.
+
+### Distributed Transactions
+* [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf) 
+* [MaaT: Effective and scalable coordination of distributed transactions in the cloud](http://www.vldb.org/pvldb/vol7/p329-mahmoud.pdf)
+
+### Operating Systems
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Very nice introductory to operating systems stuff, with good coverage of new technology. The whimsical tone makes it a fun read. Better than [the Dinosaur Book](https://www.amazon.ca/Operating-System-Concepts-Abraham-Silberschatz/dp/1118129385) in my opinion.
+* [Showstopper!](https://www.amazon.com/Show-Stopper-Breakneck-Generation-Microsoft/dp/0029356717) - About the development of Windows NT. Given the amount of computing analogies, I think this is intended for a nontechnical audience. Still a great read regardless, with lots of insight into various OS design decisions.
+
+### Cluster Management
+* [The Datacenter as a Computer](http://web.eecs.umich.edu/~mosharaf/Readings/DC-Computer.pdf)
+* [The Datacenter Needs an Operating System](https://cs.stanford.edu/~matei/papers/2011/hotcloud_datacenter_os.pdf) - Zaharia et al. makes a very good case for why we need OS-like functionality for large clusters of machines.
+* [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](https://people.eecs.berkeley.edu/~alig/papers/mesos.pdf) - Also by Zaharia et al.; introduced the idea of a two-level datacenter scheduler.
+* [Large-scale cluster management at Google with Borg](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf) - Unbeknownst to everyone, Google has had a datacenter operating system for more than a decade. This is the precursor to the open-source [Kubernetes](https://kubernetes.io/).
+* [Omega: flexible, scalable schedulers for large compute clusters](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41684.pdf) - documents a project that attempted to replace Borg. Interestingly, this was published *before* the Borg paper.
+* [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf) - describes how Google does metadata storage for distributed systems.
+
+### Misc.
+* [The Night Watch](https://www.usenix.org/system/files/1311_05-08_mickens.pdf) by James Mickens
 
 ## Architecture
 This section has some overlap in terms of coverage with the *Systems* sections above, but is more focused on a real-life software engineering persepctive.
